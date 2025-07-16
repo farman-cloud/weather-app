@@ -1,3 +1,3 @@
 ## 🌐 Live Demo
 
-Check out the live app here: [Weather App](https://farmana-cloud.github.io/weather-app/)
+Check out the live app here: [Weather App](https://farman-cloud.github.io/weather-app/)
